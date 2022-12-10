@@ -113,16 +113,16 @@ main div{
     background-repeat: no-repeat;
     background-size: 100%;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 10px 10px;
 }
 
 main div h2{
-    font-size: 40px;
+    font-size: 35px;
     font-weight: 700;
 }
 
 main div h3{
-    font-size: 35px;
+    font-size: 25px;
     font-weight: 700;
 }
 
